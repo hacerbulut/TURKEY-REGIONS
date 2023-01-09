@@ -15,7 +15,7 @@ body{
     margin: 30px;
 }
 .main{
-    width: 80%;
+    width: 100%;
     margin: 50px auto;
     /* background-color: aqua; */
     display: flex;
